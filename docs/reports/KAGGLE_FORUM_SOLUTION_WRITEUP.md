@@ -21,7 +21,7 @@ Physical engineering is fundamentally different from conversational question-ans
 
 ### 1.1 Failure Breakdown
 
-![Figure 1: Failures by Discipline and Type](docs/images/figure3_devset_failure_breakdown.png)
+![Figure 1: Failures by Discipline and Type](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F648464%2F1b1be61e25728acd4872daef132a9e7a%2Ffigure3_devset_failure_breakdown.png?generation=1794630947758236&alt=media)
 *Figure 1: Failure rate and score distribution across all 4 physical engineering disciplines (Structural, Civil, Electrical, and Mechanical) comparing the unassisted baseline against our multi-agent verification harness on the 29 public dev tasks.*
 
 Across the 29 public dev tasks, failure modes distributed into:
@@ -48,7 +48,7 @@ Across the 29 public dev tasks, failure modes distributed into:
 
 ## 2. Architecture & Reasoning (25 pts)
 
-![Figure 2: System Architecture Diagram](docs/images/figure1_architecture_diagram.png)
+![Figure 2: System Architecture Diagram](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F648464%2Faa98a670a68d5abc2738a69f0ffbb3c9%2Ffigure1_architecture_diagram.png?generation=1794630926409868&alt=media)
 *Figure 2: System Architecture: Multi-Modal Ingestion, Context Compactor, Hierarchical Planner, Tool Execution (OpenCASCADE / IfcOpenShell / MCP), and the Deterministic Collision-Traceback Verification Loop.*
 
 ### Control Loop & Core Mechanisms
@@ -93,7 +93,7 @@ We evaluated our harness across 5 Google-sponsored foundation models from distin
 
 ## 4. Efficiency & Scaling (20 pts)
 
-![Figure 3: Score vs. Cost Pareto Frontier](docs/images/figure2_score_vs_cost.png)
+![Figure 3: Score vs. Cost Pareto Frontier](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F648464%2F42061b1333cbe525eda98d94d9df83fa%2Ffigure2_score_vs_cost.png?generation=1794630938514865&alt=media)
 *Figure 3: Score vs. Cost Pareto frontier across model families, verification budgets ($k=1$ to $k=5$), and reasoning token allocations.*
 
 ### Scaling Dynamics & Plateau Analysis

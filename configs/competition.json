@@ -1,0 +1,72 @@
+{
+  "slug": "physical-engineerings-last-exam",
+  "title": "Physical-Engineering's Last Exam (PLE)",
+  "host": "Kaggle",
+  "format": "Hackathon / Code & Writeup Competition",
+  "writeup_url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam/writeups",
+  "paper_arxiv": "arXiv:2610.30537",
+  "benchmark_url": "https://ple-bench.com",
+  "deadline": "2027-01-05T23:59:00Z",
+  "stage1_judging_deadline": "2027-01-19T23:59:00Z",
+  "stage2_evaluation_deadline": "2027-01-26T23:59:00Z",
+  "total_tasks": 85,
+  "public_dev_tasks": 29,
+  "hidden_test_tasks": 56,
+  "disciplines": {
+    "structural_engineering": {
+      "total": 10,
+      "dev": 4,
+      "test": 6,
+      "grading": "5 Automated, 5 Automated + LLM-Judge"
+    },
+    "civil_engineering": {
+      "total": 18,
+      "dev": 9,
+      "test": 9,
+      "grading": "5 Automated, 10 LLM-Judge, 3 Automated + LLM-Judge"
+    },
+    "electrical_engineering": {
+      "total": 27,
+      "dev": 9,
+      "test": 18,
+      "grading": "11 Automated, 14 LLM-Judge, 2 Automated + LLM-Judge"
+    },
+    "mechanical_engineering": {
+      "total": 30,
+      "dev": 7,
+      "test": 23,
+      "grading": "8 Automated, 18 LLM-Judge, 4 Automated + LLM-Judge"
+    }
+  },
+  "sponsored_models": [
+    "google-cloud/gemini-4-argon",
+    "google-cloud/gemini-3.8-flash",
+    "google-cloud/gemini-3.1-pro-preview",
+    "google-cloud/gemma-4-26b",
+    "google-cloud/claude-opus-5-5",
+    "google-cloud/gpt-oss-120b",
+    "google-cloud/glm-5.2",
+    "google-cloud/llama-4-maverick"
+  ],
+  "writeup_rubric": {
+    "insight_and_failure_analysis": 25,
+    "engineering_reasoning": 25,
+    "cross_model_generalizability": 15,
+    "efficiency_and_scaling": 20,
+    "clarity_and_visuals": 15,
+    "total_points": 100
+  },
+  "writeup_constraints": {
+    "max_word_count": 2000,
+    "required_figures": [
+      "figure1_architecture_diagram",
+      "figure2_score_vs_cost",
+      "figure3_devset_failure_breakdown"
+    ],
+    "required_metadata": [
+      "github_repo_url",
+      "commit_sha_40_chars",
+      "media_gallery_cover_image"
+    ]
+  }
+}

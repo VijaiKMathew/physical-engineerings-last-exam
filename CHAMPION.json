@@ -1,0 +1,16 @@
+{
+  "label": "ple-baseline-harness-v1",
+  "model_api": "google-cloud/gemini-4-argon",
+  "judge_model": "Claude Opus 5.5",
+  "date": "2026-11-14",
+  "dev_score": 0.452,
+  "dev_tasks_evaluated": 29,
+  "disciplines": {
+    "structural": 0.42,
+    "civil": 0.46,
+    "electrical": 0.51,
+    "mechanical": 0.38
+  },
+  "avg_cost_usd": 2.15,
+  "artifacts_verified": false
+}

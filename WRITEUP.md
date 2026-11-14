@@ -1,7 +1,7 @@
 # Aero-Aegis: Multi-Modal Spatial Vector Grounding & Deterministic Verification Loops
 
 - **Repo:** https://github.com/VijaiKMathew/physical-engineerings-last-exam
-- **Commit SHA:** `bbc04496f52b76fb8534a2d9c1f1eeb146e3a175`
+- **Commit SHA:** `6b507fd8d63577f679e91827379ae77e9f74ff62`
 - **Primary model_api:** `google-cloud/gemini-4-argon`
 - **Other models tested:** `google-cloud/claude-opus-5-5`, `google-cloud/gemini-3.8-flash`, `google-cloud/llama-4-maverick`, `google-cloud/gemma-4-26b`
 - **Dev score (29 tasks):** **0.608** | **$3.80/task** | **42 min/task**

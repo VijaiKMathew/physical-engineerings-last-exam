@@ -1,0 +1,8 @@
+# Scratch folder .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+*.log
+*.swp
+*.bak

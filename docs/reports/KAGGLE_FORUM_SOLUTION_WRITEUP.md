@@ -2,8 +2,8 @@
 
 **Competition:** [Physical-Engineering's Last Exam (PLE)](https://www.kaggle.com/competitions/physical-engineerings-last-exam)  
 **Track:** Stage 1 Kaggle Writeup Qualification & Stage 2 Benchmark  
-**Verified GitHub Repository:** `https://github.com/vijaikm/ple-harness`  
-**Committed Target SHA:** `e4a9f381c0d48259b3627d7f781c81ef407a12cd`  
+**Verified GitHub Repository:** `https://github.com/VijaiKMathew/physical-engineerings-last-exam`  
+**Committed Target SHA:** `b19a7e65e8902d13149cebfae5ea3c7b39678e24`  
 **Target Sponsored Model (`submission.yaml`):** `google-cloud/gemini-4-argon`  
 **Development Judge Model:** `Claude Opus 5.5`  
 **Public Dev-Set Benchmark Score:** **`0.608`** (Mean score across 29 tasks on 0.0–1.0 scale)  
